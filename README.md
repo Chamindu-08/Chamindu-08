@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Chamindu Induwara</h1>
 <h3 align="center">MERN Stack | Java | Spring Boot | Flutter Developer from Sri Lanka</h3></br>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" width="400"></picture>
+<p align="center">
+  <em>
+    This is ME, Chamindu Induwara, a <b>second year</b> undergraduate from <a href="https://www.nibm.lk/"> <b>National Institute of Business Management</b></a>. <br>
+    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+</p>
 
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" width="400"></picture>
+**Talking about Personal Stuffs...** </br>
 🌱 **Currently Learning:** Software Engineering at NIBM  
 
 🔭 **Working On:** [FlowX](https://github.com/Chamindu-08/GAHDSE241F-flowx.git)  
